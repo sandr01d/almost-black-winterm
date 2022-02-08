@@ -1,9 +1,5 @@
 # Almost Black WinTerm
 
-<p>
-<img src="https://img.shields.io/github/license/sandr01d/almost-black-winterm">
-</p>
-
 A port of the [Almost Black](https://github.com/sandr01d/almost-black) color scheme for Windows Terminal.
 
 ## Credits
